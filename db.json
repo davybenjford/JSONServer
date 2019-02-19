@@ -1,9 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+	[
+		["Index of Happiness","09:00","10:00","11:00","12:00","13:00"],
+		["Eden",215,781,586,435,404],
+		["Shambhala",290,250,934,177,822],
+		["Avalon",113,395,903,878,310],
+		["Camelot",218,398,468,460,866],
+		["El Dorado",491,112,216,638,436],
+		["Atlantis",766,721,666,597,185]
+	]
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
